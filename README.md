@@ -11,7 +11,7 @@ The goals of this project:
 What is this project using?
 
 - [imapfilter](https://github.com/lefcha/imapfilter)
-- [Thoughtbot's rcm](https://github.com/thoughtbot/rcm}
+- [rcm](https://github.com/thoughtbot/rcm)
 
 ## Development
 
