@@ -9,4 +9,6 @@ then
 fi
 rcup -d /dotfiles
 
+
+# Runs imap filter
 imapfilter -v
